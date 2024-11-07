@@ -2,6 +2,6 @@
 
 This all my project, you can find me
 
-- email: 2006037@itg.ac.id
+- email: jamilulumu97@gmail.com
 - linkedIn: https://www.linkedin.com/in/jamil-ulumudin-3446a929b/
 - portofolio:  https://www.datascienceportfol.io/jamil
